@@ -1,5 +1,7 @@
 # War Thunder Triple Screen
 
+[English](docs/README.en.md)
+
 **Download:** https://github.com/hubertdungen/war-thunder-triple-screen/releases
 
 **Source:** https://github.com/hubertdungen/war-thunder-triple-screen
