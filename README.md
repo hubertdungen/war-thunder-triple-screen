@@ -115,3 +115,6 @@ equivale a cerca de 11,1 milhões de píxeis por frame.
 
 - Guia X4 usado como base: https://www.reddit.com/r/X4Foundations/comments/1vfqbe5/guide_opensource_tool_mixedresolution_triple/
 - Informação BattlEye publicada pelo suporte Gaijin: https://support.gaijin.net/hc/en-us/articles/21638218281362-BattlEye-anti-cheat-troubleshooting
+
+
+<p align="center"><a href="https://dlforge.dungenlabs.com"><img src="docs/branding/dlforge-logo.svg" alt="DL Forge" width="120"></a><br><a href="https://dlforge.dungenlabs.com">DL Forge</a></p>
