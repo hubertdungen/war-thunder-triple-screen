@@ -98,4 +98,4 @@ This is one very wide surface, not three independent cameras. The periphery may 
 - X4 guide used as a base: https://www.reddit.com/r/X4Foundations/comments/1vfqbe5/guide_opensource_tool_mixedresolution_triple/
 - BattlEye information published by Gaijin support: https://support.gaijin.net/hc/en-us/articles/21638218281362-BattlEye-anti-cheat-troubleshooting
 
-<p align="center"><a href="https://dlforge.dungenlabs.com"><img src="branding/dlforge-logo.svg#gh-light-mode-only" alt="DL Forge" width="120"><img src="branding/dlforge-logo-negative.svg#gh-dark-mode-only" alt="DL Forge" width="120"></a></p>
+<p align="center"><a href="https://dlforge.dungenlabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="branding/dlforge-logo-negative.svg"><img src="branding/dlforge-logo.svg" alt="DL Forge" width="120"></picture></a></p>
